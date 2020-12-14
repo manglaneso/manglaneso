@@ -12,4 +12,4 @@
 [![Linkedin: amanglano](https://img.shields.io/badge/-amanglano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanglano/)](https://www.linkedin.com/in/amanglano)
 [![GitHub: manglaneso](https://img.shields.io/badge/-amanglano-black?style=flat&logo=Github&logoColor=white&link=https://github.com/manglaneso)](https://github.com/manglaneso)
 [![Webpage: manglaneso](https://img.shields.io/badge/-manglaneso.me-grey?style=flat&logo=42&logoColor=white&link=https://manglaneso.me)](https://manglaneso.me)
-[![Email: manglaneso](https://img.shields.io/badge/-andresmc94@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto://andresmc94@gmail.com)](mailto://andresmc94@gmail.com)
+[![Email: manglaneso](https://img.shields.io/badge/-andresmc94@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:andresmc94@gmail.com)](mailto:andresmc94@gmail.com)
