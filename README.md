@@ -5,7 +5,7 @@
 
 #### My top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manglaneso&layout=compact&hide=HTML,CSS)](https://github.com/manglaneso)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manglaneso&layout=compact&hide=HTML,CSS&langs_count=5)](https://github.com/manglaneso)
 
 #### Contact me
 
