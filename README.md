@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working at Devo as a Software Engineer.
-- 💼 Worked the last couple of years as a Sofware Engineer developing awesome software with Google Cloud.
+- 💼 I’m currently working at Devo as a Software Engineer.
+- 🌱 Finishing my Master's Degree studies on Internet of Things at Universidad Carlos III de Madrid.
 
 #### My top languages
 
