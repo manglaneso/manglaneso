@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying a Master's Degree on Internet of Things at Universidad Carlos III de Madrid.
+- 🌱 I’m currently working at Devo as a Software Engineer.
 - 💼 Worked the last couple of years as a Sofware Engineer developing awesome software with Google Cloud.
 
 #### My top languages
