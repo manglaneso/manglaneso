@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 💼 I’m currently working at [@DevoInc](https://github.com/DevoInc) as a backend Software Engineer building highly concurrent core microservices.
+- 💼 I’m currently working at [@DevoInc](https://github.com/DevoInc) as a backend Software Engineer building highly concurrent core microservices. Using mostly Kotlin and a little bit of Java and Scala.
 
-- Checkout [all my links at my website]
-(https://manglaneso.me/links/)
+- Checkout [all my links at my website](https://manglaneso.me/links/)
 
 
 #### My top languages
