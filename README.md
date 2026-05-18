@@ -2,7 +2,9 @@
 
 - 💼 Backend Software Engineer using mostly Kotlin and a little bit of Java and Scala.
 
-- Checkout [all my links at my website](https://manglaneso.me/links/)
+- Check out [all my links at my website](https://manglaneso.me/links/)
+
+- Visit my [Codeberg where I'm developing lately](https://codeberg.org/manglaneso)
 
 
 #### My top languages
